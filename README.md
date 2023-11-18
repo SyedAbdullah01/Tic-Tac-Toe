@@ -35,7 +35,7 @@ Feel free to explore and customize the code according to your preferences. The i
 - **JavaScript:** Game logic and interactivity.
 - **GitHub:** Version control and repository hosting.
 - **Git:** Distributed version control system.
-- **Netlify:** Deployment platform for hosting the live version of the game.
+- **Netlify:**  The web application is hosted and deployed using Netlify, providing a platform for easy accessibility via the provided link.
 
 
 Play the game live [here](https://tic-tac-toe-in-js.netlify.app/)!
